@@ -1,0 +1,2 @@
+# Governance
+Owner requested construction of a new out-of-catalogue Skill, but has not assigned or approved the final Skill ID or publication. MAT-01 is a proposed unique working code. Domain reviewer may check mathematical algorithms; owner must explicitly accept/release. No external communications, GitHub pushes, P2 transition or out-of-scope polynomial features. Core Rev.0 and Parent Rev.1 are reference frameworks with their own unapproved status.

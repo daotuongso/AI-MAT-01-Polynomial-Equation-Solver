@@ -1,0 +1,31 @@
+{
+  "skill_id": "MAT-01",
+  "name_en": "AI Polynomial Equation Solver",
+  "name_vi": "Skill Giải phương trình đa thức bậc n",
+  "revision": "Rev.0",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "catalogue_status": "OWNER_REQUEST_NEW_SKILL_PENDING_CATALOGUE_CODE",
+  "parent_version": "Rev.1 DRAFT",
+  "core_version": "Rev.0",
+  "read_contract": [
+    "README.md",
+    "VERSION.json",
+    "SKILL.md",
+    "skill_manifest.json",
+    "CORE/INPUT_CONTRACT.md",
+    "CORE/TOOL_CONTRACT.md",
+    "CORE/OUTPUT_CONTRACT.md",
+    "WORKFLOW/G0_G7.md",
+    "METHODOLOGY/POLYNOMIAL_SOLVING.md",
+    "QA/QA_POLICY.md"
+  ],
+  "input_contract": "CORE/INPUT_CONTRACT.md",
+  "tool_contract": "CORE/TOOL_CONTRACT.md",
+  "output_contract": "CORE/OUTPUT_CONTRACT.md",
+  "workflow": "WORKFLOW/G0_G7.md",
+  "approved": false,
+  "release_authorized": false,
+  "domain_reviewer": "UNASSIGNED",
+  "owner": "UNASSIGNED",
+  "tool_dependency": "SymPy >=1.12"
+}

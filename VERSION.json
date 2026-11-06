@@ -1,0 +1,12 @@
+{
+  "skill_id": "MAT-01",
+  "revision": "Rev.0",
+  "status": "READY_FOR_OWNER_REVIEW",
+  "date": "2026-11-06",
+  "parent": "BTO AI Skill Factory Builder Rev.1 DRAFT",
+  "core": "BTO AI Factory Core Rev.0 DRAFT_FOR_PLANNING",
+  "approval": false,
+  "approved": false,
+  "release_authorized": false,
+  "business_uat": "NOT_RUN"
+}

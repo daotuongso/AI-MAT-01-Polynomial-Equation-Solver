@@ -1,0 +1,2 @@
+# TOOL Contract – MAT-01
+Tool: local Python 3 + `sympy>=1.12,<2` for exact coefficient parsing, square-free factorization, numerical complex root computation and small-degree exact solutions. Dependency pinned by version range; if unavailable, report BLOCKED, do not assume tool execution. `tools/solve_polynomial.py` never accesses network or modifies documents. Run per user input only. Use `maxsteps=300`, `precision=20`, and polynomial degree <=20 to reduce runaway runtime; convergence/conditioning cannot be guaranteed.

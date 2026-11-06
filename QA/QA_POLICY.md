@@ -1,0 +1,2 @@
+# QA Policy
+Structural tests: 10-file Read Contract, `START_HERE.md` prompt, JSON, Markdown links, controlled Manifest SHA-256 and ZIP extraction. Functional tests: linear, quadratic real, quadratic non-real, cubic multiplicity, quartic, high degree sample, invalid degree/coefficient/count and tool residual. No business UAT or approval. Numerical result flagged approximate. Tool computation is not inferred from documentation presence.
